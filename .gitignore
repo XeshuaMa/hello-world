@@ -1,0 +1,13 @@
+# Ignore Windows system files
+AppData/
+Local Settings/
+My Documents/
+Cookies/
+Recent/
+*.parc
+
+# Ignore Cursor IDE files
+.cursor/
+
+# Ignore VSCode temporary files
+.vscode/
